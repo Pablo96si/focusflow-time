@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow Time",
+ "short_name": "Time",
+ "description": "a time blindness planner for ADHD adults: a visual timer you can feel, a log of how long things really take, leave-by alarms that count backwards from the appointment, transition warnings, and a day schedule that learns your real multiplier. Your data never leaves your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
